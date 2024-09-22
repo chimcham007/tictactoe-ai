@@ -22,7 +22,7 @@ Welcome to the Tic Tac Toe - Cyberpunk Edition! This web application allows you 
 
 1. Clone this repository to your local machine:
    
-   git clone https://github.com/yourusername/repo.git
+   git clone https://github.com/chaman2003/tictactoe-ai
    
 
 2. Navigate to the project directory:
